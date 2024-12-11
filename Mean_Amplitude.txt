@@ -1,0 +1,7 @@
+bin3_Average_Contra_Minus_Ipsi_P3/P4/P3/P4	bin3_Average_Contra_Minus_Ipsi_P7/P8/P7/P8	bin3_Average_Contra_Minus_Ipsi_PO7/PO8/PO7/PO8	bin3_Average_Contra_Minus_Ipsi_Pooled	  ERPset
+                      0.353	                      0.397	                      0.400	                      0.383	1_AR_reject_diff
+                      0.127	                      0.364	                      0.360	                      0.283	2_AR_reject_diff
+                     -0.099	                     -1.335	                     -0.803	                     -0.746	3_AR_reject_diff
+                     -1.615	                     -1.048	                     -1.204	                     -1.289	4_AR_reject_diff
+                      0.549	                     -0.017	                      0.499	                      0.344	5_AR_reject_diff
+                      0.063	                     -1.165	                     -2.431	                     -1.178	6_AR_reject_diff

@@ -1,6 +1,0 @@
-LH = [1  13 14 15]
-RH = [31 18 19 17]
-
-nb1 = (b2@LH + b1@RH)/2 label Average Contra
-nb2 = (b1@LH + b2@RH)/2 label Average Ipsi
-nb3 = ((b2@LH + b1@RH)/2) - ((b1@LH + b2@RH)/2) label Average Contra Minus Ipsi
